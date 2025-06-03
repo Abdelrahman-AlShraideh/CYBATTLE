@@ -1,4 +1,0 @@
-repository "دنيك الكواكب/دنيك الكواكب@18967881063454@cloud"
-  path "/"
-    br "/main"
-    co "/main"
